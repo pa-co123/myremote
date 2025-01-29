@@ -1,3 +1,8 @@
 Aquí va mi código HTML
 Se agrego linea
+<<<<<<< HEAD
 Codigo cambiado
+Hola como estas
+=======
+Se agrego una linea desde GTHUB
+>>>>>>> 82ff67762d19e101744bd0d7eca480cb06ef1060
